@@ -1,13 +1,5 @@
 # Traffic Rules Violation Detection with Computer Vision
 
-> Initial Release (Everything is not completed)
-
-:star: Please star this project. It helps a lot.
-
-![Overal use case](images/main.gif)
-
-
-![Dark theme Screen shot](images/main_black.png)
 
 ## TL;DR
 
